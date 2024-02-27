@@ -20,7 +20,12 @@ Clone this repository and navigate into the project directory. Install the depen
 pip install torch torchvision pillow matplotlib
 ```
 
-There is a requirements file you can review that I have used in virtual environments.
+There is a requirements file you can review that I have used in virtual environments. 
+Use the following line to download in the requirements:
+
+```bash
+pip install -r requirements.txt
+```
 
 Then you can run the following line in your terminal to start reconstruction:
 
