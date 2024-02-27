@@ -36,3 +36,6 @@ python main.py --image "/path/to/your/image.png" --iterations 500 --alpha 0.8 --
 You can change the parameters for what you woudl like but the parameters above should give you the optimal results.
 If more reconstruction is needed, add more iterations and num_refinement_passes.
 If still not working, message me at sv258@duke.edu and I will attempt to fix it.
+
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
