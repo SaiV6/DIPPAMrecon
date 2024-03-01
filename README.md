@@ -2,7 +2,7 @@
 
 # Deep Image Prior Reconstruction
 
-This project implements a Deep Image Prior (DIP) based approach for image reconstruction. It utilizes a convolutional network to reconstruct or denoise images without requiring clean training data.
+This project implements a Deep Image Prior (DIP) based approach for image reconstruction. It utilizes a convolutional network to reconstruct images without requiring clean training data.
 
 ## Requirements
 
